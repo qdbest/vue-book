@@ -1,0 +1,2 @@
+module.exports = ['http://m.360buyimg.com/mobilecms/jfs/t1/8761/14/2636/95797/5bd31625E17567ba7/a1c2f0aaadc177c7.jpg!cr_1125x549_0_72',
+  'http://m.360buyimg.com/mobilecms/s1125x690_jfs/t1/2349/30/13056/311144/5bd66a46Ef108e105/8d1ef53d3461b164.jpg!cr_1125x549_0_72!q70.jpg.dpg', 'http://m.360buyimg.com/mobilecms/s1125x690_jfs/t1/285/2/13808/128645/5bd80094Ec1d8332b/0fe1ee1977ad38ab.jpg!cr_1125x549_0_72!q70.jpg.dpg'];
